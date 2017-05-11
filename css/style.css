@@ -6,7 +6,7 @@
 		url('../fonts/GillSansAltOneWGL.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
-}
+} 
 
 @font-face {
 	font-family: 'GillSans';
@@ -59,6 +59,7 @@ body {
   margin-bottom: 43px;
   background: url('../img/header-foto.jpg');
   background-size: cover;
+  background-position: 30%;
 }
 
 .page-header__container {
